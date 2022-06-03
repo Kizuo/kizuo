@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello! I am Kizuo, as you've seen. 
+## My blog is at [kizuo.github.io](kizuo.github.io)
 
 <!--
 **Kizuo/kizuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
